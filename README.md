@@ -8,3 +8,10 @@ Imy220  Project deliverable 0.
 Wireframe for photo sharing site.
 Company name: DePict
 
+Docker instructions
+docker compose up -d --build
+docker compose ps #check if working
+docker compose logs backend #see link
+docker compose logs frontend #see link to app
+
+
